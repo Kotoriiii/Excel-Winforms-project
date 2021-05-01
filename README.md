@@ -1,2 +1,2 @@
 # Excel-Winforms-project
-Wsu Cpts 321 project
+WSU Cpts 321 project
